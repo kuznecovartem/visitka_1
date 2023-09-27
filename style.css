@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    background: url(img/422634000.jpg) no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+.text {
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+ text-align: center;
+ font-size: 50px;
+ margin-bottom: 60px;
+ color: red;
+}
+
+.autumn {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 35px;
+}
+
+.title-2 {
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 40px;
+    color: orange;
+}
+
+.autumn-2 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 35px;
+}
+
+.title-3 {
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 40px;
+    color: yellow;
+}
+
+.autumn-3 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 35px;
+}
+
+.title-4 {
+    text-align: center;
+    font-size: 19px;
+    color: green;
+}
